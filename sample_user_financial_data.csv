@@ -1,0 +1,11 @@
+User_ID,Full_Name,Age,Occupation_Type,Monthly_Income (₹),Transaction_Date,Transaction_Type,Category,Description,Amount (₹),Payment_Mode,Loan_EMI (₹),Savings (₹),Goal_Name,Goal_Amount (₹),Goal_Deadline
+U101,Aditya Singh,22,Student,25000,2025-10-01,Income,Salary,Internship Stipend,10000,Bank Transfer,0,3000,Buy Laptop,60000,2026-03-01
+U101,Aditya Singh,22,Student,25000,2025-10-03,Expense,Food,Swiggy Order,350,UPI,0,3000,Buy Laptop,60000,2026-03-01
+U101,Aditya Singh,22,Student,25000,2025-10-04,Expense,Utilities,Electricity Bill,1200,UPI,0,3000,Buy Laptop,60000,2026-03-01
+U101,Aditya Singh,22,Student,25000,2025-10-05,Expense,Education,Online Course Subscription,1500,Card,0,3000,Buy Laptop,60000,2026-03-01
+U101,Aditya Singh,22,Student,25000,2025-10-07,Expense,Travel,Ola Ride,200,UPI,0,3000,Buy Laptop,60000,2026-03-01
+U101,Aditya Singh,22,Student,25000,2025-10-10,Expense,Shopping,Amazon Purchase,800,Card,0,3000,Buy Laptop,60000,2026-03-01
+U101,Aditya Singh,22,Student,25000,2025-10-12,Expense,Bills,Mobile Recharge,199,UPI,0,3000,Buy Laptop,60000,2026-03-01
+U101,Aditya Singh,22,Student,25000,2025-10-15,Expense,Food,Zomato Dinner,450,UPI,0,3000,Buy Laptop,60000,2026-03-01
+U101,Aditya Singh,22,Student,25000,2025-10-18,Expense,Entertainment,Netflix Subscription,499,Card,0,3000,Buy Laptop,60000,2026-03-01
+U101,Aditya Singh,22,Student,25000,2025-10-20,Income,Freelance,Freelance Web Project,5000,UPI,0,3000,Buy Laptop,60000,2026-03-01

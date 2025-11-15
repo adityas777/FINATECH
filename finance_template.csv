@@ -1,0 +1,2 @@
+User_ID,Full_Name,Age,Occupation_Type,Monthly_Income (₹),Transaction_Date,Transaction_Type,Category,Description,Amount (₹),Payment_Mode,Loan_EMI (₹),Savings (₹),Goal_Name,Goal_Amount (₹),Goal_Deadline
+U101,Aditya Singh,22,Student,400000,10-01-25,Income,Salary,Internship Stipend,10000,Bank Transfer,25000,3000,Buy Laptop,80000,03-01-26

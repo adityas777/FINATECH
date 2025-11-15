@@ -1,0 +1,35 @@
+
+DIGITAL CREDIT SCORE REPORT
+Generated: 31/10/2025
+
+CREDIT SCORE: 691 / 900
+Category: Good
+
+=== TRANSACTION INSIGHTS ===
+Total Transactions: 73
+Total Sent (₹): 95656.02
+Total Received (₹): 94943.89
+Average Transaction (₹): 2616.43
+Refund Rate (%): 1.37
+Peer-to-Peer Ratio (%): 17.81
+Cashflow Balance (₹): -712.13
+Transaction Stability Score: 78.18
+Cash Flow Score: 99.25
+Payment Reliability Score: 97.26
+Spending Discipline Score: 41.93
+Digital Behavior Score: 58.22
+
+=== KEY INSIGHTS ===
+1. Positive cashflow – you receive more than you spend.
+2. Reliable transactions – very few refunds or failures.
+3. High variance in transaction amounts – spending spikes observed.
+4. Low digital peer engagement detected.
+5. Stable transaction history – consistent behavior across months.
+
+=== RECOMMENDATIONS ===
+• Positive cashflow – you receive more than you spend.
+• Reliable transactions – very few refunds or failures.
+• High variance in transaction amounts – spending spikes observed.
+• Low digital peer engagement detected.
+• Stable transaction history – consistent behavior across months.
+    
