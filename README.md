@@ -1,7 +1,7 @@
 # 💸 FIX YOUR FINANCE — AI-Powered Fintech Platform  
 > 🌍 [Live Demo](https://v0-remix-of-smart-finance-dashboard-omega.vercel.app/landing)
 > ---
-> Agent link-https://opal.google/?flow=drive:/18i6LiHhHMwkqI-qiKs-cCWQ7Jkw0AIrG&shared&mode=app (sign in with for real time data and authenticity)
+> Agent link-https://opal.google/?flow=drive:/18i6LiHhHMwkqI-qiKs-cCWQ7Jkw0AIrG&shared&mode=app (sign in with for your personal email and not your institutes email for real time data and authenticity)
 >  | Built for **DATATHON 2K25 (Final Round)**  
 
 ---
@@ -86,4 +86,5 @@ without relying on salary slips or CIBIL. It uses real digital footprints to ass
 📧 [LinkedIn](https://linkedin.com/in/adityas777)  
 
 > 💬 *“Making finance simple, smart, and inclusive — powered by AI.”*  
+
 
